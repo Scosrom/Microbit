@@ -11,7 +11,7 @@
  
  2.Programación básica 1
  
- - [Programación básica 1](modulo3/programacion1)
+ - [Programación básica 1](modulo3/programación1.md)
  
  3.Programación básica 2
  
