@@ -34,7 +34,8 @@
  
  7.Autores
  
- - 
+- Sandra María Costales Romero
+- José María Campos Chacón 
  
  8.Licencia
 
