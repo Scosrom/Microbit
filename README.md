@@ -7,7 +7,7 @@
  
  1.La Placa Microbit y sus elementos
  
- -
+ - [La Placa Microbit y sus elementos](modulo2/laPlacaMicrobit.md)
  
  2.Programación básica 1
  
