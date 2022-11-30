@@ -1,5 +1,8 @@
 # Microbit
 
+![muchas-microbit](https://user-images.githubusercontent.com/114906778/204746160-3c35bfc5-4c0f-4574-9b5d-92cd6124322c.jpg)
+
+
 ## Contenidos
  0.Introducción
  
