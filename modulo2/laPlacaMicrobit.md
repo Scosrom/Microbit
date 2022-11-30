@@ -1,3 +1,7 @@
+
+![Placa](https://user-images.githubusercontent.com/114906778/204753019-ae406dc9-dbe8-4ca7-b997-f0982431ab8e.jpeg)
+
+
 # La placa Microbit y sus elementos
 
 La placa Microbit es una **placa programable**, es decir, una placa con un procesador y otros componentes que la convierten en una pequeña computadora cuyo comportamiento podemos programar de forma sencilla. 
