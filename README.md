@@ -34,8 +34,11 @@
  
  7.Autores
  
-- Sandra María Costales Romero
+- Sandra María Costales Romero 
+  https://github.com/Scosrom
+  
 - José María Campos Chacón 
+  
  
  8.Licencia
 
