@@ -8,15 +8,15 @@ La placa Microbit es una **placa programable**, es decir, una placa con un proce
 
 - **Sensores** son los elementos que recogen información del exterior para transmitirla al procesador. Algunos ejemplos de sensores serian: 
 
-                  - Un Boton o pulsador
-                  - Un sensor de temperatura
-                  - Una brújula
-                  - Un Sensor de luz
-                  - Un acelerómetro
+                   Un Boton o pulsador
+                   Un sensor de temperatura
+                   Una brújula
+                   Un Sensor de luz
+                   Un acelerómetro
 
 -**Actuadores** son los elementos que **reciben instrucciones del procesador** para realizar alguna acción. Por ejemeplo: 
 
-                  - Una luz LED
+                   Una luz LED
                   
  ### Parte Frontal
  
@@ -25,29 +25,29 @@ La placa Microbit es una **placa programable**, es decir, una placa con un proce
  - **Micrófono** que detecta y reacciona ante el nivel de volumen del entorno. 
  - **Conectores o pines** el borde inferior de la placa contiene 25 conectores externos. 
 
-        **Pines de la parte frontal de la placa**
+**Pines de la parte frontal de la placa**
         
-      Además, encontramos 5 pines de conexión grandes, conectados a los agujeros de la palca marcados como 0,1,2,3V y GND.
+   Además, encontramos 5 pines de conexión grandes, conectados a los agujeros de la palca marcados como 0,1,2,3V y GND.
       
-        **Parte posterior de la placa**
+**Parte posterior de la placa**
       
-     - Sensor de sonido
-     - LED de encendido
-     - Reset
-     - Comunicación inalámbrica: Radio y Bluetooth
-     - Temperatura
-     - Acelerómetro y brújula
-     - Altavoz
+                   Sensor de sonido
+                   LED de encendido
+                   Reset
+                   Comunicación inalámbrica: Radio y Bluetooth
+                   Temperatura
+                   Acelerómetro y brújula
+                   Altavoz
 
 ### Parte Posterior
 
- -**Procesador** es el cerebro de la placa.
- -**Sensor de temperatura**
- -**Brújula**
- -**Acelerómetro**
- -**Altavoz**
- -**Módulo de radio**
- -**Módulo Bluetooth**
- -**Puerto USB**
- -**Botón reset**
- -**Conector JST**
+                   Procesador es el cerebro de la placa.
+                   Sensor de temperatura
+                   Brújula
+                   Acelerómetro
+                   Altavoz
+                   Módulo de radio
+                   Módulo Bluetooth
+                   Puerto USB
+                   Botón reset
+                   Conector JST
