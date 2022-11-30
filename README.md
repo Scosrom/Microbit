@@ -3,6 +3,8 @@
 ## Contenidos
  0.Introducción
  
+ -[¿Qué es Steam? ¿Qué es una placa Microbit?](modulo1/introduccion.md)
+ 
  1.La Placa Microbit y sus elementos
  
  -
