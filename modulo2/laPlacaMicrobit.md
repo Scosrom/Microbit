@@ -18,7 +18,7 @@ La placa Microbit es una **placa programable**, es decir, una placa con un proce
                    Un Sensor de luz
                    Un acelerómetro
 
--**Actuadores** son los elementos que **reciben instrucciones del procesador** para realizar alguna acción. Por ejemeplo: 
+- **Actuadores** son los elementos que **reciben instrucciones del procesador** para realizar alguna acción. Por ejemeplo: 
 
                    Una luz LED
                   
