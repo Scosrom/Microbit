@@ -31,7 +31,7 @@ La placa Microbit es una **placa programable**, es decir, una placa con un proce
 
 **Pines de la parte frontal de la placa**
         
-   Además, encontramos 5 pines de conexión grandes, conectados a los agujeros de la palca marcados como 0,1,2,3V y GND.
+       Además, encontramos 5 pines de conexión grandes, conectados a los agujeros de la palca marcados como 0,1,2,3V y GND.
       
 **Parte posterior de la placa**
       
