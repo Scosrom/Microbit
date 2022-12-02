@@ -55,3 +55,5 @@ La placa Microbit es una **placa programable**, es decir, una placa con un proce
                    Puerto USB
                    Botón reset
                    Conector JST
+                   
+ ### [Ejercicios](ejercicios.md)
