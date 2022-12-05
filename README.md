@@ -36,11 +36,11 @@
  
 - Sandra María Costales Romero 
 
-  https://github.com/Scosrom
+  [Github](https://github.com/Scosrom)
   
 - José María Campos Chacón 
 
-  https://github.com/camposchaconjosemaria
+  [Github](https://github.com/camposchaconjosemaria)
   
  
  8.Licencia
