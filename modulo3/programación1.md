@@ -17,3 +17,7 @@ Ahora vamos a añadir en la secuencia anterior que se muestre un número al azar
 
 Como último ejercicio, crearemos una programación para que al pulsar el A suene una melodía y al pulsar el botón B continue la melodía.
 
+
+![Ejercicio3](https://user-images.githubusercontent.com/114906778/205583426-e2d34cae-9c0b-4722-a8a3-b73fe4279bdb.png)
+
+
