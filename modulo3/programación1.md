@@ -11,8 +11,7 @@ En esta actividad vamos a crear una cadena de iconos al agitar la placa.
 
 Ahora vamos a añadir en la secuencia anterior que se muestre un número al azar, al terminar la cadena de iconos.
 
- 
-
+ ![Ejercicio2](https://user-images.githubusercontent.com/114906778/205583253-401cfb68-1c93-48ad-912b-5fe93b090b51.png)
 
 ## Ejercicio 3.
 
