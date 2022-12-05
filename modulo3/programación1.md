@@ -25,7 +25,6 @@ Ahora vamos a añadir en la secuencia anterior que se muestre un número al azar
  [Código](Ejercicio2.hex)
  
  
- [Ejercicio 2]
 
 ## Ejercicio 3.
 
