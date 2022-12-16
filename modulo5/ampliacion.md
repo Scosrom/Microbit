@@ -15,7 +15,7 @@ Contador pasos: Este proyecto nos registrará el numero de pasos que lleguemos a
 
 [Código](codContador.hex)
 
-## Ejemplo 4
+## Ejemplo 3
 
 Juego: En el siguiente video explicamos los pasos para crear un juego con makecode para la placa Microbit.
 
